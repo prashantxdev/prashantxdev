@@ -80,7 +80,7 @@ I'm passionate about problem-solving, building useful applications, and learning
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prashantxdev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prashantxdev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---

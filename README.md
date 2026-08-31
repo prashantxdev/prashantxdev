@@ -101,7 +101,7 @@ I'm passionate about problem-solving, building useful applications, and learning
 
 ### 📫 Reach Me
 
-**Email:** [kumarprashant8595@gmail.com](mailto:kumarprashant8595@gmail.com)
+**Email:** [kumarprashant8595@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kumarprashant8595@gmail.com)
 
 ---
 

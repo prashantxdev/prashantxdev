@@ -4,7 +4,7 @@
   <img alt="prashantxdev's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-# Hi there 👋, I'm Prashant Kumar
+# Hi there 👋, I'm Prashant 
 
 ### 💻 CS Undergrad @ GGSIPU | MERN Stack Developer | DSA (Java) | Hackathon Enthusiast
 
